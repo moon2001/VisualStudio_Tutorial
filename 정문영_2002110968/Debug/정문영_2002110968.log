@@ -1,3 +1,3 @@
-﻿  C2주_ex4.c
-C:\Users\wjdan\source\repos\정문영_2002110968\정문영_2002110968\C2주_ex4.c(7,17): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
-  정문영_2002110968.vcxproj -> C:\Users\wjdan\source\repos\정문영_2002110968\Debug\정문영_2002110968.exe
+﻿  C3주_ex10.c
+C:\Users\wjdan\source\repos\moon2001\VisualStudio_Tutorial\정문영_2002110968\C3주_ex10.c(5,12): warning C4129: ')': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+  정문영_2002110968.vcxproj -> C:\Users\wjdan\Source\Repos\moon2001\VisualStudio_Tutorial\Debug\정문영_2002110968.exe

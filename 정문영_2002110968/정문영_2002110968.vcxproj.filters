@@ -42,5 +42,44 @@
     <ClCompile Include="C2주_ex6.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="C3주_ex1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C3주_ex2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C3주_ex3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C3주_ex4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C3주_ex5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C3주_ex6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C3주_ex7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C3주_ex8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C3주_ex9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C3주_ex10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C3주_ex11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C3주_ex12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C3주_ex13.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
